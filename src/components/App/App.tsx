@@ -7,7 +7,9 @@ import * as logo from "../../../static/logo.png"
 
 const GlobalStyle = createGlobalStyle`
   html {
+    font-family: sans-serif;
     font-size: 19px;
+
     @media only screen and
     (min-device-width : 320px) and (max-device-width : 667px) and (orientation : portrait),
     (device-aspect-ratio: 2) and (max-device-width: 420px) and (orientation: portrait),

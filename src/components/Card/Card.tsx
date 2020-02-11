@@ -42,7 +42,6 @@ const TextFlex = styled.div`
   color: white;
   display: flex;
   flex: 1 1 auto;
-  font-family: Montserrat, sans-serif;
   font-size: 1rem;
   font-weight: bold;
   line-height: 1.2rem;

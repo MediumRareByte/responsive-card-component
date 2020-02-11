@@ -5,12 +5,13 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin")
 module.exports = {
   mode: "production",
 
+  output: {
+    path: path.resolve(__dirname, "docs"),
+  },
+
   resolve: {
     modules: ["src", "node_modules"],
     extensions: [".ts", ".tsx", ".js"],
-  },
-  devServer: {
-    contentBase: "./dist",
   },
 
   plugins: [

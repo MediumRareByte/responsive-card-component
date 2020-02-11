@@ -19,3 +19,5 @@ The `html` tag has media queries that control the font size depending on device 
 The Card component, in turn, has relative sizes to adapt accordingly. 
 I chose to make the component in this way as it would be consistent within the context it will live in.
 
+## Demo
+https://vinifala.github.io/responsive-card-component/

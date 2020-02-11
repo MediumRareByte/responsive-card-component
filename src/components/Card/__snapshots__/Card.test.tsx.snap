@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-AxjAm byIbcN"
+>
+  <img
+    className="sc-AxirZ cUVYWJ"
+    src="bg.jpg"
+  />
+  <div
+    className="sc-AxiKw jPfAJG"
+  >
+    <div
+      className="sc-AxhCb gghXhC"
+    >
+      <img
+        className="sc-AxhUy gNfBHr"
+        src="logo.png"
+      />
+    </div>
+    <div
+      className="sc-AxgMl jvpFBJ"
+    >
+      <span
+        className="sc-AxheI cjAsIU"
+      >
+        Home and Away
+      </span>
+    </div>
+  </div>
+</div>
+`;
